@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Applications",
+    "children": [
+      {
+        "name": "Calculator",
+        "children": [
+          { "name": "Standard Mode" },
+          { "name": "Scientific Mode" },
+          { "name": "Programmer Mode" },
+          { "name": "Statistics Mode" },
+          { "name": "History" },
+          { "name": "Memory" },
+          { "name": "Settings" }
+        ]
+      },
+      {
+        "name": "Calendar",
+        "children": [
+          { "name": "Events" },
+          { "name": "Tasks" },
+          { "name": "Birthdays" },
+          { "name": "Holidays" },
+          { "name": "Reminders" },
+          { "name": "Meetings" },
+          { "name": "Settings" }
+        ]
+      },
+      {
+        "name": "Mail",
+        "children": [
+          { "name": "Inbox" },
+          { "name": "Sent" },
+          { "name": "Drafts" },
+          { "name": "Spam" },
+          { "name": "Trash" },
+          { "name": "Archive" },
+          { "name": "Settings" }
+        ]
+      },
+      {
+        "name": "Photos",
+        "children": [
+          { "name": "Albums" },
+          { "name": "Favorites" },
+          { "name": "Recents" },
+          { "name": "People" },
+          { "name": "Places" },
+          { "name": "Hidden" },
+          { "name": "Settings" }
+        ]
+      },
+      {
+        "name": "Notes",
+        "children": [
+          { "name": "Personal" },
+          { "name": "Work" },
+          { "name": "Archive" },
+          { "name": "Trash" },
+          { "name": "Drafts" },
+          { "name": "Shared" },
+          { "name": "Settings" }
+        ]
+      },
+      {
+        "name": "Settings",
+        "children": [
+          { "name": "General" },
+          { "name": "Display" },
+          { "name": "Notifications" },
+          { "name": "Privacy" },
+          { "name": "Security" },
+          { "name": "Storage" },
+          { "name": "About" }
+        ]
+      },
+      {
+        "name": "Music",
+        "children": [
+          { "name": "Playlists" },
+          { "name": "Artists" },
+          { "name": "Albums" },
+          { "name": "Songs" },
+          { "name": "Genres" },
+          { "name": "Recently Added" },
+          { "name": "Settings" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Library",
+    "children": [
+      {
+        "name": "Fonts",
+        "children": [
+          { "name": "Arial" },
+          { "name": "Helvetica" },
+          { "name": "Times New Roman" },
+          { "name": "Courier New" },
+          { "name": "Verdana" },
+          { "name": "Georgia" },
+          { "name": "Comic Sans MS" }
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "children": [
+          { "name": "React" },
+          { "name": "Vue" },
+          { "name": "Angular" },
+          { "name": "Svelte" },
+          { "name": "Next.js" },
+          { "name": "Nuxt.js" },
+          { "name": "Ember" }
+        ]
+      },
+      {
+        "name": "Application Support",
+        "children": [
+          { "name": "App1" },
+          { "name": "App2" },
+          { "name": "App3" },
+          { "name": "App4" },
+          { "name": "App5" },
+          { "name": "App6" },
+          { "name": "App7" }
+        ]
+      },
+      {
+        "name": "Caches",
+        "children": [
+          { "name": "Cache1" },
+          { "name": "Cache2" },
+          { "name": "Cache3" },
+          { "name": "Cache4" },
+          { "name": "Cache5" },
+          { "name": "Cache6" },
+          { "name": "Cache7" }
+        ]
+      },
+      {
+        "name": "Preferences",
+        "children": [
+          { "name": "Pref1" },
+          { "name": "Pref2" },
+          { "name": "Pref3" },
+          { "name": "Pref4" },
+          { "name": "Pref5" },
+          { "name": "Pref6" },
+          { "name": "Pref7" }
+        ]
+      },
+      {
+        "name": "Logs",
+        "children": [
+          { "name": "Log1" },
+          { "name": "Log2" },
+          { "name": "Log3" },
+          { "name": "Log4" },
+          { "name": "Log5" },
+          { "name": "Log6" },
+          { "name": "Log7" }
+        ]
+      },
+      {
+        "name": "Extensions",
+        "children": [
+          { "name": "Ext1" },
+          { "name": "Ext2" },
+          { "name": "Ext3" },
+          { "name": "Ext4" },
+          { "name": "Ext5" },
+          { "name": "Ext6" },
+          { "name": "Ext7" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "System",
+    "children": [
+      {
+        "name": "Library",
+        "children": [
+          { "name": "SysLib1" },
+          { "name": "SysLib2" },
+          { "name": "SysLib3" },
+          { "name": "SysLib4" },
+          { "name": "SysLib5" },
+          { "name": "SysLib6" },
+          { "name": "SysLib7" }
+        ]
+      },
+      {
+        "name": "Applications",
+        "children": [
+          { "name": "SysApp1" },
+          { "name": "SysApp2" },
+          { "name": "SysApp3" },
+          { "name": "SysApp4" },
+          { "name": "SysApp5" },
+          { "name": "SysApp6" },
+          { "name": "SysApp7" }
+        ]
+      },
+      {
+        "name": "Network",
+        "children": [
+          { "name": "Network1" },
+          { "name": "Network2" },
+          { "name": "Network3" },
+          { "name": "Network4" },
+          { "name": "Network5" },
+          { "name": "Network6" },
+          { "name": "Network7" }
+        ]
+      },
+      {
+        "name": "Drivers",
+        "children": [
+          { "name": "Driver1" },
+          { "name": "Driver2" },
+          { "name": "Driver3" },
+          { "name": "Driver4" },
+          { "name": "Driver5" },
+          { "name": "Driver6" },
+          { "name": "Driver7" }
+        ]
+      },
+      {
+        "name": "Kernel Extensions",
+        "children": [
+          { "name": "Kext1" },
+          { "name": "Kext2" },
+          { "name": "Kext3" },
+          { "name": "Kext4" },
+          { "name": "Kext5" },
+          { "name": "Kext6" },
+          { "name": "Kext7" }
+        ]
+      },
+      {
+        "name": "StartupItems",
+        "children": [
+          { "name": "Startup1" },
+          { "name": "Startup2" },
+          { "name": "Startup3" },
+          { "name": "Startup4" },
+          { "name": "Startup5" },
+          { "name": "Startup6" },
+          { "name": "Startup7" }
+        ]
+      },
+      {
+        "name": "Resources",
+        "children": [
+          { "name": "Resource1" },
+          { "name": "Resource2" },
+          { "name": "Resource3" },
+          { "name": "Resource4" },
+          { "name": "Resource5" },
+          { "name": "Resource6" },
+          { "name": "Resource7" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Users",
+    "children": [
+      {
+        "name": "adam",
+        "children": [
+          { "name": "Documents" },
+          { "name": "Downloads" },
+          { "name": "Desktop" },
+          { "name": "Music" },
+          { "name": "Pictures" },
+          { "name": "Videos" },
+          { "name": "Settings" }
+        ]
+      },
+      {
+        "name": "ghost",
+        "children": [
+          { "name": "Documents" },
+          { "name": "Downloads" },
+          { "name": "Desktop" },
+          { "name": "Music" },
+          { "name": "Pictures" },
+          { "name": "Videos" },
+          { "name": "Settings" }
+        ]
+      }
+    ]
+  }
+]
