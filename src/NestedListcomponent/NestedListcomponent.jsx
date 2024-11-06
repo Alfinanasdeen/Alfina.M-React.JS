@@ -1,6 +1,6 @@
 import { useState } from "react";
 import fileStructureData from "./fileStructureData.json";
-import "./NestedListComponent.css";
+import "./NestedListcomponent.css";
 
 // URLs for folder, file, and play button icons
 const folderIconUrl =
