@@ -8,6 +8,7 @@
   overflow-x: auto;
   max-width: 1200px;
   padding: 10px;
+  flex-wrap: wrap;
 }
 
 .path-bar {
@@ -44,12 +45,12 @@
 }
 
 .item-icon {
-  width: 1.2em; 
-  height: 1.2em; 
+  width: 1.2em;
+  height: 1.2em;
 }
 
 .folder-icon {
-  color: #0078d7; 
+  color: #0078d7;
 }
 
 .file-icon {
@@ -63,4 +64,40 @@
 
 .nested-item:hover {
   background-color: #e0e0e0;
+}
+
+@media (max-width: 768px) {
+  .file-explorer {
+    flex-direction: column;
+    align-items: flex-start;
+    overflow-x: hidden;
+  }
+
+  .column {
+    max-width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #dcdcdc;
+  }
+
+  .column:last-child {
+    border-bottom: none;
+  }
+
+  .nested-item {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 480px) {
+  .path-bar {
+    font-size: 12px;
+    padding: 4px;
+  }
+
+  .nested-item .icon,
+  .play-icon,
+  .item-icon {
+    width: 1em;
+    height: 1em;
+  }
 }

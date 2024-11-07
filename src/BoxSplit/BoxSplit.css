@@ -5,7 +5,6 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  font-family: Arial, sans-serif;
 }
 
 .center-container {
@@ -51,4 +50,33 @@ body {
 .square:hover {
   background-color: #61dafb;
   transform: scale(1.05);
+}
+@media (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+  .description {
+    font-size: 1rem;
+  }
+  .box-container {
+    width: 70vw;
+    height: 70vw;
+    max-width: 300px;
+    max-height: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 1.8rem;
+  }
+  .description {
+    font-size: 0.9rem;
+  }
+  .box-container {
+    width: 60vw;
+    height: 60vw;
+    max-width: 250px; 
+    max-height: 250px;
+  }
 }

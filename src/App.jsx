@@ -39,7 +39,7 @@ const App = () => {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Select a Component</h1>
+        <h1>Select a Task</h1>
         <button onClick={() => setCurrentView("elementTransfer")}>
           Element Transfer
         </button>
